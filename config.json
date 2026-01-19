@@ -1,0 +1,13 @@
+{
+  "discordToken": "YOUR_DISCORD_BOT_TOKEN_HERE",
+  "channelId": "YOUR_DISCORD_CHANNEL_ID_HERE",
+  "minecraft": {
+    "host": "play.example.com",
+    "port": 25565,
+    "username": "your_email_or_username",
+    "password": "",
+    "auth": "microsoft",
+    "useAuthFlow": false,
+    "version": "1.21"
+  }
+}
